@@ -1,19 +1,8 @@
-# 🎬 Movies dataset template
 
-A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+# Proyecto 1 Parcial Data Science
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movies-dataset-template.streamlit.app/)
+Irvin Alejandro Morales Ramirez 343423
 
-### How to run it on your own machine
+https://343423data.streamlit.app/
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+https://github.com/Irvinmora139/proyecto1Data
